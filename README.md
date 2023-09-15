@@ -11,4 +11,5 @@
 3. Get list of shorted links (Required)
 4. Apply caching
 5. Emit socket event when created/update/deleted link
-6. Build a simple interface to interact with the server
+6. Build API documentation using Swagger
+7. Build a simple interface to interact with the server
